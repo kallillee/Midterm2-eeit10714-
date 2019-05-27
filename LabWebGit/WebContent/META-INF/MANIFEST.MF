@@ -1,2 +1,6 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
+=======
+Class-Path: 
+>>>>>>> branch 'master' of https://github.com/EEIT107Team01/repository.git
 
