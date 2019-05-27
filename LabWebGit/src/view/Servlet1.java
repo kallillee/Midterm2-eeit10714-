@@ -1,4 +1,5 @@
 package view;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Timestamp;
@@ -22,6 +23,7 @@ public class Servlet1 extends HttpServlet {
 		out.println("<h1>commit3</h1>");
 		out.println("<h3 style='color:red;'>Happy New Year!</h3>");
 		out.close();
+
 
 	}
 
